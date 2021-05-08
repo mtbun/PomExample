@@ -1,28 +1,25 @@
 ﻿<Properties StartupConfiguration="{70FE02A1-7D1A-4ECF-9069-388B031195F4}|Default">
   <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="Test/Pages/HomePage.cs" Line="1" Column="1" />
+      <File FileName="Test/Pages/LoginPage.cs" Line="1" Column="1" />
+      <File FileName="Test/Pages/ResultPage.cs" Line="1" Column="1" />
+      <File FileName="Test/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Test" expanded="True">
             <Node name="Test" expanded="True">
               <Node name="Pages" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Test" expanded="True">
-            <Node name="Test" expanded="True">
-              <Node name="Test" expanded="True">
-                <Node name="MainClass" expanded="True">
-                  <Node name="ExecuteTest" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Test" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
