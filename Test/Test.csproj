@@ -61,9 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="scripts\powerbi.min.js" />
-    <None Include="scripts\powerbi.js.map" />
-    <None Include="scripts\powerbi.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Pages\" />
